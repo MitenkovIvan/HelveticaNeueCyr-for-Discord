@@ -1,5 +1,5 @@
-# HelveticaNeueCyr-for-Discord
-This theme changes font from Whitney to HelveticaNeueCyr.  
+# HelveticaNeueCyr for Discord
+This theme changes font in Discord from Whitney to HelveticaNeueCyr.  
 <br/>
 
 How to install:
