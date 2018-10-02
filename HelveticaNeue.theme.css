@@ -1,0 +1,5 @@
+//META{"name":"Helvetica Neue","description":"Changes Whitney to Helvetica Neue","author":"MitenkovVanya","version":"1.0.0"}*//{}
+
+::-webkit-input-placeholder, body, button, input, select, textarea {
+	font-family: Helvetica Neue,Helvetica Neue,Helvetica,Arial,sans-serif;
+}

@@ -1,0 +1,5 @@
+//META{"name":"HelveticaNeueCyr","description":"Changes Whitney to HelveticaNeueCyr","author":"MitenkovVanya","version":"1.0.0"}*//{}
+
+::-webkit-input-placeholder, body, button, input, select, textarea {
+	font-family: HelveticaNeueCyr,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
